@@ -55,7 +55,7 @@ public class HomeNews extends Fragment {
     private void isidata() {
 
         final ProgressDialog progressDialog = new ProgressDialog(getActivity());
-        progressDialog.setMessage("Loading data...");
+        progressDialog.setMessage("Mengambil data ... ");
         progressDialog.show();
 
 
@@ -77,7 +77,8 @@ public class HomeNews extends Fragment {
                                 News_list item = new News_list(
                                         o.getJSONObject("multimedia").getString("src"),
                                         o.getString("display_title"),
-                                        o.getString("byline")
+                                        o.getString("byline"),
+                                        o.getString("summary_short")
                                 );
                                 news_lists.add(item);
                             }

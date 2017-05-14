@@ -10,11 +10,13 @@ public class News_list implements Serializable {
     private String image;
     private String judul;
     private String popular;
+    private String detildeskripsi;
 
-    public News_list(String image, String judul, String popular) {
+    public News_list(String image, String judul, String popular, String detildeskripsi) {
         this.image = image;
         this.judul = judul;
         this.popular = popular;
+        this.detildeskripsi = detildeskripsi;
     }
 
     public String getImage() {
@@ -27,6 +29,10 @@ public class News_list implements Serializable {
 
     public String getPopular() {
         return popular;
+    }
+
+    public String getDetildeskripsi() {
+        return detildeskripsi;
     }
 
 }
