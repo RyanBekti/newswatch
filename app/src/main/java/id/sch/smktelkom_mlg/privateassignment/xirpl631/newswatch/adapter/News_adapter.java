@@ -1,4 +1,4 @@
-package id.sch.smktelkom_mlg.privateassignment.xirpl631.newswatch;
+package id.sch.smktelkom_mlg.privateassignment.xirpl631.newswatch.adapter;
 
 import android.content.Context;
 import android.content.Intent;
@@ -13,6 +13,10 @@ import android.widget.TextView;
 import com.bumptech.glide.Glide;
 
 import java.util.List;
+
+import id.sch.smktelkom_mlg.privateassignment.xirpl631.newswatch.DetilActivity;
+import id.sch.smktelkom_mlg.privateassignment.xirpl631.newswatch.R;
+import id.sch.smktelkom_mlg.privateassignment.xirpl631.newswatch.model.News_list;
 
 /**
  * Created by Ryan on 13/05/2017.

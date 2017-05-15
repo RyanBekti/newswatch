@@ -24,6 +24,9 @@ import org.json.JSONObject;
 import java.util.ArrayList;
 import java.util.List;
 
+import id.sch.smktelkom_mlg.privateassignment.xirpl631.newswatch.adapter.News_adapter;
+import id.sch.smktelkom_mlg.privateassignment.xirpl631.newswatch.model.News_list;
+
 /**
  * A simple {@link Fragment} subclass.
  */

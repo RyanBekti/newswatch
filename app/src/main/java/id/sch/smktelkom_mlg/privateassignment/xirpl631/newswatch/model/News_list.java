@@ -1,4 +1,4 @@
-package id.sch.smktelkom_mlg.privateassignment.xirpl631.newswatch;
+package id.sch.smktelkom_mlg.privateassignment.xirpl631.newswatch.model;
 
 import java.io.Serializable;
 
