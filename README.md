@@ -14,9 +14,9 @@ JUDUL : NewsWatch<br>
 <b>Deskripsi :</b> Jadi aplikasi ini membantu user untuk tetap up to date dalam movie.<br> Untuk menggunakan aplikasi ini cukup mudah karena user inrterface yang mudah dan simple.<br> Aplkasi ini cocok digunakan untuk mereka yang dalam masa remaja atau lebih tua karena,<br> film yang disajikannya pun tidak semua baik untuk anak-anak.<br> Spesifikasi android untuk menggunakannya pun hanya minimal type android marsmello. Saya harap  aplikasi ini dapat membantu anda.<br>
 <b>Kelebihan :</b> Mudah Digunakan dan data APi terus Update<br>
 
-![SS1](https://docs.google.com/uc?id=0Bz7hPTBvtobXNzNva09MYWZVdnc)<br>
+![SS1](https://docs.google.com/uc?id=0Bz7hPTBvtobXNzNva09MYWZVdnc)
 ![SS2](https://docs.google.com/uc?id=0Bz7hPTBvtobXZjlnR3NwYmlRRVk)<br>
-![SS3](https://docs.google.com/uc?id=0Bz7hPTBvtobXMmxhODdrVU03Unc)<br>
+![SS3](https://docs.google.com/uc?id=0Bz7hPTBvtobXMmxhODdrVU03Unc)
 ![SS4](https://docs.google.com/uc?id=0Bz7hPTBvtobXY1NhTWNjRExtRjg)<br>
 ![SS5](https://docs.google.com/uc?id=0Bz7hPTBvtobXT3JnNFRSMW9iaFU)<br>
 
