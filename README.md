@@ -1,5 +1,5 @@
 # newswatch
-JUDUL : NewsWatch<br>
+<b>JUDUL :</b> NewsWatch<br>
 
 <b>Nama :</b> Ryan Bekti Mahendra<br>
 <b>Kelas :</b> XI-RPL6<br>
