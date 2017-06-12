@@ -1,6 +1,6 @@
 # newswatch
-<b>JUDUL :</b> NewsWatch<br>
-
+<b>Nama Aplikasi :</b> NewsWatch<br>
+<b>Link apk release :</b> https://drive.google.com/open?id=0Bz7hPTBvtobXdzdMaThhMkhMQm8<br>
 <b>Nama :</b> Ryan Bekti Mahendra<br>
 <b>Kelas :</b> XI-RPL6<br>
 <b>No :</b> 31<br>
